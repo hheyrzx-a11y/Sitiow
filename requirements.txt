@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+requests
+cloudscraper
+beautifulsoup4
+aiohttp
+moviepy==1.0.3
+pyjsparser
+js2py
